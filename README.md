@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**charlyTochi/charlyTochi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on freelance Projects
+- 🌱 I’m currently learning Node JS
+- 👯 I’m looking to collaborate on Open-Source projects
+- 🤔 I’m looking for help with Nothing
+- 💬 Ask me about React JS & React Native
+- 📫 How to reach me: charlesorafu40@gmail.com
+- ⚡ Fun fact: I love watching video tutorials than reading
 
-Here are some ideas to get you started:
+![Github stats](https://github-readme-stats.vercel.app/api?username=charlyTochi)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me at
+
+- [Twitter](https://twitter.com/charlyTechy)
+- [LinkedIn]https://www.linkedin.com/in/orafu-charly)
+- [Github](https://github.com/charlyTochi)
