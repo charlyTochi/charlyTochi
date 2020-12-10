@@ -8,17 +8,12 @@
 - 📫 How to reach me: charlesorafu40@gmail.com
 - ⚡ Fun fact: I love watching video tutorials than reading
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=charlyTochi)
 
-## Connect with me at
+![Github stats](https://github-readme-stats.vercel.app/api?username=charlyTochi&theme=dark)
+![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=charlyTochi&theme=dark)
 
-<a href="https://github.com/charlyTochi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlyTochi&theme=light" />
-  </a>
-  <a href="https://github.com/charlyTochi">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=charlyTochi&show_icons=true&theme=light&line_height=27" alt="Charles orafu's github stats"/>
-</a>
 
 - [Twitter](https://twitter.com/charlyTechy)
 - [LinkedIn]https://www.linkedin.com/in/orafu-charly)
 - [Github](https://github.com/charlyTochi)
+## Connect with me at
